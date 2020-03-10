@@ -1,3 +1,15 @@
+A simple login page
+
+[CondeSandbox link](https://codesandbox.io/s/nifty-lalande-6j00t)
+
+Tech used:
+- styled-components
+- Responsive Web Design
+- CSS Animation
+- React Hooks
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
